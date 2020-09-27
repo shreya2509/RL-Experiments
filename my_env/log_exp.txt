@@ -1,0 +1,22 @@
+ddpg_try2 -> it didn't learn to go to the target _ din't make target terminal
+
+ddpg_try3 -> keep the target close to the agent...made target terminal too
+
+ddpg_try4 -> try to give negative reward for crashing to the boundary
+
+
+
+
+
+
+
+
+ddpg can perform good in some replicas and bad in others
+
+try pixel input for ddpg
+
+noise ?
+we add action space noise in ddpg for exploration...if we add parameter space noise it works better.
+
+
+reward function to be normalized ?
